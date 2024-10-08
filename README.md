@@ -10,17 +10,13 @@ You can view the live portfolio at: [https://prakashkumar1167.vercel.app/](https
 
 ## Technologies Used
 
-- **Front-end:** 
+
   - HTML
   - CSS
   - Tailwind CSS
   - JavaScript
   - React
 
-- **Back-end:**
-  - Node.js
-  - Express.js
-  - MongoDB
 
 ## Features
 
